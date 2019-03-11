@@ -410,7 +410,7 @@ En caso de que la url cumpla con las validaciones el API retornara un json con e
 
 Para poder usar nuestra url minificada deberemos entrar al navegador y usar nuestra url generada
 
-http://<dominio>.<algo>:<puerto>/<dodigo>
+http://dominio.algo/codigo
 
 ## Obtener los Top 100 mas Visitadas
 
